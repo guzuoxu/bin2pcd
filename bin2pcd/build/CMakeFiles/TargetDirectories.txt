@@ -1,0 +1,7 @@
+/home/guzuoxu/桌面/pointloud/bin2pcd/build/CMakeFiles/install/strip.dir
+/home/guzuoxu/桌面/pointloud/bin2pcd/build/CMakeFiles/edit_cache.dir
+/home/guzuoxu/桌面/pointloud/bin2pcd/build/CMakeFiles/bin2pcd.dir
+/home/guzuoxu/桌面/pointloud/bin2pcd/build/CMakeFiles/rebuild_cache.dir
+/home/guzuoxu/桌面/pointloud/bin2pcd/build/CMakeFiles/list_install_components.dir
+/home/guzuoxu/桌面/pointloud/bin2pcd/build/CMakeFiles/install/local.dir
+/home/guzuoxu/桌面/pointloud/bin2pcd/build/CMakeFiles/install.dir

@@ -1,0 +1,2 @@
+i=1;for x in /home/name/桌面/pointloud/bin2pcd/velodyne/bin/*.bin; do /home/name/桌面/pointloud/bin2pcd/build/bin2pcd --infile $x --outfile /home/name/桌面/pointloud/bin2pcd/velodyne/pcd/$i.pcd; let i=i+1; done
+
