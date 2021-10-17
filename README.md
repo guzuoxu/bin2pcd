@@ -1,2 +1,2 @@
 # bin2pcd
-conv ertpintcloud bin to  
+convert pintcloud bin to  pcd.
